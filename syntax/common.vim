@@ -48,9 +48,7 @@ if exists("did_typescript_hilink")
   HiLink typescriptReserved             Error
 
   HiLink typescriptEndColons            Exception
-  HiLink typescriptSymbols              Normal
   HiLink typescriptBraces               Function
-  HiLink typescriptParens               Normal
   HiLink typescriptComment              Comment
   HiLink typescriptLineComment          Comment
   HiLink typescriptDocComment           Comment
